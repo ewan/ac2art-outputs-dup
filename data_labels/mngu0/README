@@ -1,0 +1,38 @@
+The files contained herein come from forced alignment labelling of
+the day1 ema subset of the mngu0 corpus. Two sets of files are
+included:
+
+1) Festival utterance structures - the result of front end processing
+   using the Festival TTS system, though using the labelling from
+   force alignment
+
+2) ESPS format label files, containing just the phone labels and end
+   times
+
+In addition, two extra files are included:
+
+mngu0_s1_symbol_list.txt  => text file listing all labelling symbols
+mngu0_s1_symbol_table.pdf => description of labelling symbols (pdf)
+
+The Labelling was done using CSTR's MultiSyn voice building tools (a
+set of scripts which underlyingly use HTK).  The Combilex lexicon was
+used (http://www.cstr.ed.ac.uk/research/projects/combilex/), and phone
+labels use the Combilex phoneset (basically an extended SAMPA set)
+
+* Changelog *
+-------------
+
+=> version 1.1.1 (released 10/07/2014)
+
+*) Added 2 files to list and describe the symbols used for the 
+   labelling
+
+=> version 1.1.0 (released 01/09/2011)
+
+*) Initial release.
+
+
+
+
+____________________________________
+Korin Richmond (korin@cstr.ed.ac.uk)

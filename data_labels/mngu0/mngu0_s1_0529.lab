@@ -1,0 +1,12 @@
+separator ;
+nfields 1
+name 
+filename ./mngu0_s1_lab_1.1.0/mngu0_s1_0529.lab
+#
+	 0.41000 26 	#
+	 0.47200 26 	p push
+	 0.54800 26 	U
+	 0.66800 26 	S
+	 0.84000 26 	Q off
+	 0.96800 26 	f
+	 1.39200 26 	#

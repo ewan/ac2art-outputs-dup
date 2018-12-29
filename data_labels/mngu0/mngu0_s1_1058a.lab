@@ -1,0 +1,12 @@
+separator ;
+nfields 1
+name 
+filename ./mngu0_s1_lab_1.1.0/mngu0_s1_1058a.lab
+#
+	 0.40400 26 	#
+	 0.46200 26 	l leader
+	 0.58000 26 	i
+	 0.64400 26 	d
+	 0.72600 26 	@
+	 0.73200 26 	r
+	 0.95600 26 	#

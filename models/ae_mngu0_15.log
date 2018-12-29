@@ -1,0 +1,151 @@
+2018-05-23 12:44:39,981 : Step 0 : rmse 2.066 mm : voice 0.686 : reconstruction 5.254 
+2018-05-23 12:44:40,625 : Best model saved.
+2018-05-23 12:52:17,231 : Step 10 : rmse 1.590 mm : voice 0.458 : reconstruction 4.604 
+2018-05-23 12:52:17,463 : Best model saved.
+2018-05-23 12:59:20,581 : Step 20 : rmse 1.504 mm : voice 0.373 : reconstruction 4.197 
+2018-05-23 12:59:20,844 : Best model saved.
+2018-05-23 13:04:43,341 : Step 30 : rmse 1.429 mm : voice 0.336 : reconstruction 3.901 
+2018-05-23 13:04:43,554 : Best model saved.
+2018-05-23 13:09:55,796 : Step 40 : rmse 1.379 mm : voice 0.308 : reconstruction 3.685 
+2018-05-23 13:09:56,008 : Best model saved.
+2018-05-23 13:15:11,523 : Step 50 : rmse 1.352 mm : voice 0.296 : reconstruction 3.510 
+2018-05-23 13:15:11,734 : Best model saved.
+2018-05-23 13:19:58,943 : Step 60 : rmse 1.308 mm : voice 0.282 : reconstruction 3.452 
+2018-05-23 13:19:59,162 : Best model saved.
+2018-05-23 13:29:39,394 : Step 70 : rmse 1.271 mm : voice 0.274 : reconstruction 3.379 
+2018-05-23 13:29:40,046 : Best model saved.
+2018-05-23 13:39:02,272 : Step 80 : rmse 1.250 mm : voice 0.277 : reconstruction 3.327 
+2018-05-23 13:39:02,490 : Best model saved.
+2018-05-23 13:43:54,055 : Step 90 : rmse 1.225 mm : voice 0.265 : reconstruction 3.237 
+2018-05-23 13:43:54,276 : Best model saved.
+2018-05-23 13:50:12,377 : Step 100 : rmse 1.213 mm : voice 0.257 : reconstruction 3.174 
+2018-05-23 13:50:12,589 : Best model saved.
+2018-05-23 13:54:56,723 : Step 110 : rmse 1.184 mm : voice 0.249 : reconstruction 3.143 
+2018-05-23 13:54:56,971 : Best model saved.
+2018-05-23 14:00:37,013 : Step 120 : rmse 1.179 mm : voice 0.246 : reconstruction 3.105 
+2018-05-23 14:00:37,226 : Best model saved.
+2018-05-23 14:06:03,210 : Step 130 : rmse 1.165 mm : voice 0.245 : reconstruction 3.051 
+2018-05-23 14:06:03,424 : Best model saved.
+2018-05-23 14:12:07,985 : Step 140 : rmse 1.160 mm : voice 0.241 : reconstruction 3.046 
+2018-05-23 14:12:08,200 : Best model saved.
+2018-05-23 14:17:20,595 : Step 150 : rmse 1.161 mm : voice 0.235 : reconstruction 3.004 
+2018-05-23 14:17:20,809 : Best model saved.
+2018-05-23 14:22:51,334 : Step 160 : rmse 1.134 mm : voice 0.232 : reconstruction 2.989 
+2018-05-23 14:22:51,553 : Best model saved.
+2018-05-23 14:27:45,517 : Step 170 : rmse 1.130 mm : voice 0.231 : reconstruction 2.987 
+2018-05-23 14:27:45,750 : Best model saved.
+2018-05-23 14:32:29,973 : Step 180 : rmse 1.111 mm : voice 0.229 : reconstruction 2.932 
+2018-05-23 14:32:30,189 : Best model saved.
+2018-05-23 14:38:48,621 : Step 190 : rmse 1.104 mm : voice 0.227 : reconstruction 2.896 
+2018-05-23 14:38:48,834 : Best model saved.
+2018-05-23 14:44:12,601 : Step 200 : rmse 1.094 mm : voice 0.228 : reconstruction 2.875 
+2018-05-23 14:44:12,815 : Best model saved.
+2018-05-23 14:49:46,050 : Step 210 : rmse 1.102 mm : voice 0.221 : reconstruction 2.848 
+2018-05-23 14:49:46,274 : Best model saved.
+2018-05-23 14:57:23,911 : Step 220 : rmse 1.105 mm : voice 0.222 : reconstruction 2.819 
+2018-05-23 14:57:24,160 : Best model saved.
+2018-05-23 15:41:14,347 : Step 230 : rmse 1.083 mm : voice 0.216 : reconstruction 2.819 
+2018-05-23 15:41:14,570 : Best model saved.
+2018-05-23 15:48:02,182 : Step 240 : rmse 1.090 mm : voice 0.214 : reconstruction 2.807 
+2018-05-23 15:48:02,399 : Best model saved.
+2018-05-23 15:54:03,542 : Step 250 : rmse 1.069 mm : voice 0.214 : reconstruction 2.818 
+2018-05-23 16:00:04,958 : Step 260 : rmse 1.065 mm : voice 0.212 : reconstruction 2.772 
+2018-05-23 16:00:05,189 : Best model saved.
+2018-05-23 16:09:28,692 : Step 270 : rmse 1.066 mm : voice 0.218 : reconstruction 2.769 
+2018-05-23 16:09:28,905 : Best model saved.
+2018-05-23 16:15:16,132 : Step 280 : rmse 1.052 mm : voice 0.212 : reconstruction 2.765 
+2018-05-23 16:15:16,353 : Best model saved.
+2018-05-23 16:21:13,598 : Step 290 : rmse 1.046 mm : voice 0.204 : reconstruction 2.732 
+2018-05-23 16:21:13,812 : Best model saved.
+2018-05-23 16:27:08,731 : Step 300 : rmse 1.037 mm : voice 0.205 : reconstruction 2.726 
+2018-05-23 16:27:08,944 : Best model saved.
+2018-05-23 16:34:25,140 : Step 310 : rmse 1.034 mm : voice 0.206 : reconstruction 2.718 
+2018-05-23 16:34:25,359 : Best model saved.
+2018-05-23 16:40:24,210 : Step 320 : rmse 1.041 mm : voice 0.201 : reconstruction 2.706 
+2018-05-23 16:40:24,425 : Best model saved.
+2018-05-23 16:45:41,811 : Step 330 : rmse 1.032 mm : voice 0.211 : reconstruction 2.729 
+2018-05-23 16:50:35,425 : Step 340 : rmse 1.029 mm : voice 0.204 : reconstruction 2.694 
+2018-05-23 16:50:35,645 : Best model saved.
+2018-05-23 16:56:02,735 : Step 350 : rmse 1.036 mm : voice 0.199 : reconstruction 2.699 
+2018-05-23 17:01:16,553 : Step 360 : rmse 1.009 mm : voice 0.200 : reconstruction 2.686 
+2018-05-23 17:01:16,772 : Best model saved.
+2018-05-23 17:06:01,917 : Step 370 : rmse 1.032 mm : voice 0.196 : reconstruction 2.691 
+2018-05-23 17:12:17,277 : Step 380 : rmse 1.015 mm : voice 0.197 : reconstruction 2.715 
+2018-05-23 17:17:02,627 : Step 390 : rmse 1.022 mm : voice 0.193 : reconstruction 2.687 
+2018-05-23 17:23:05,095 : Step 400 : rmse 1.022 mm : voice 0.204 : reconstruction 2.665 
+2018-05-23 17:23:05,317 : Best model saved.
+2018-05-23 17:28:21,084 : Step 410 : rmse 1.004 mm : voice 0.193 : reconstruction 2.637 
+2018-05-23 17:28:21,335 : Best model saved.
+2018-05-23 17:32:57,655 : Step 420 : rmse 1.018 mm : voice 0.196 : reconstruction 2.685 
+2018-05-23 17:39:36,558 : Step 430 : rmse 1.004 mm : voice 0.188 : reconstruction 2.640 
+2018-05-23 17:46:13,045 : Step 440 : rmse 0.995 mm : voice 0.198 : reconstruction 2.671 
+2018-05-23 17:52:26,947 : Step 450 : rmse 0.990 mm : voice 0.193 : reconstruction 2.619 
+2018-05-23 17:52:27,162 : Best model saved.
+2018-05-23 17:57:53,467 : Step 460 : rmse 0.985 mm : voice 0.191 : reconstruction 2.592 
+2018-05-23 17:57:53,681 : Best model saved.
+2018-05-23 18:02:33,822 : Step 470 : rmse 0.990 mm : voice 0.186 : reconstruction 2.600 
+2018-05-23 18:07:27,305 : Step 480 : rmse 0.991 mm : voice 0.189 : reconstruction 2.602 
+2018-05-23 18:12:20,154 : Step 490 : rmse 0.980 mm : voice 0.187 : reconstruction 2.612 
+2018-05-23 18:18:36,457 : Step 500 : rmse 0.970 mm : voice 0.184 : reconstruction 2.586 
+2018-05-23 18:18:36,670 : Best model saved.
+2018-05-23 18:23:55,253 : Step 510 : rmse 1.013 mm : voice 0.192 : reconstruction 2.611 
+2018-05-23 18:29:51,253 : Step 520 : rmse 1.009 mm : voice 0.180 : reconstruction 2.613 
+2018-05-23 18:34:22,896 : Step 530 : rmse 0.996 mm : voice 0.187 : reconstruction 2.600 
+2018-05-23 18:40:17,899 : Step 540 : rmse 0.967 mm : voice 0.189 : reconstruction 2.581 
+2018-05-23 18:40:18,113 : Best model saved.
+2018-05-23 18:44:47,484 : Step 550 : rmse 0.969 mm : voice 0.179 : reconstruction 2.573 
+2018-05-23 18:44:47,701 : Best model saved.
+2018-05-23 18:50:19,653 : Step 560 : rmse 0.955 mm : voice 0.179 : reconstruction 2.567 
+2018-05-23 18:50:19,868 : Best model saved.
+2018-05-23 18:55:57,188 : Step 570 : rmse 0.949 mm : voice 0.179 : reconstruction 2.596 
+2018-05-23 19:00:36,843 : Step 580 : rmse 0.955 mm : voice 0.178 : reconstruction 2.570 
+2018-05-23 19:05:15,463 : Step 590 : rmse 0.949 mm : voice 0.176 : reconstruction 2.581 
+2018-05-23 19:10:31,490 : Step 600 : rmse 0.951 mm : voice 0.175 : reconstruction 2.549 
+2018-05-23 19:10:31,704 : Best model saved.
+2018-05-23 19:15:34,394 : Step 610 : rmse 0.950 mm : voice 0.177 : reconstruction 2.575 
+2018-05-23 19:20:32,927 : Step 620 : rmse 0.951 mm : voice 0.174 : reconstruction 2.550 
+2018-05-23 19:25:32,981 : Step 630 : rmse 0.970 mm : voice 0.175 : reconstruction 2.541 
+2018-05-23 19:25:33,195 : Best model saved.
+2018-05-23 19:30:07,486 : Step 640 : rmse 0.958 mm : voice 0.175 : reconstruction 2.548 
+2018-05-23 19:35:31,399 : Step 650 : rmse 0.959 mm : voice 0.173 : reconstruction 2.545 
+2018-05-23 19:40:35,661 : Step 660 : rmse 0.937 mm : voice 0.189 : reconstruction 2.560 
+2018-05-23 19:44:56,379 : Step 670 : rmse 0.938 mm : voice 0.182 : reconstruction 2.517 
+2018-05-23 19:44:56,594 : Best model saved.
+2018-05-23 19:50:00,424 : Step 680 : rmse 0.938 mm : voice 0.173 : reconstruction 2.529 
+2018-05-23 19:55:02,626 : Step 690 : rmse 0.935 mm : voice 0.168 : reconstruction 2.549 
+2018-05-23 19:59:39,880 : Step 700 : rmse 0.925 mm : voice 0.169 : reconstruction 2.544 
+2018-05-23 20:04:21,314 : Step 710 : rmse 0.924 mm : voice 0.166 : reconstruction 2.534 
+2018-05-23 20:10:02,284 : Step 720 : rmse 0.927 mm : voice 0.165 : reconstruction 2.521 
+2018-05-23 20:15:33,592 : Step 730 : rmse 0.935 mm : voice 0.167 : reconstruction 2.536 
+2018-05-23 20:21:54,250 : Step 740 : rmse 0.920 mm : voice 0.165 : reconstruction 2.519 
+2018-05-23 20:21:54,464 : Best model saved.
+2018-05-23 20:26:21,766 : Step 750 : rmse 0.925 mm : voice 0.168 : reconstruction 2.536 
+2018-05-23 20:31:10,289 : Step 760 : rmse 0.920 mm : voice 0.164 : reconstruction 2.506 
+2018-05-23 20:31:10,530 : Best model saved.
+2018-05-23 20:37:01,724 : Step 770 : rmse 0.929 mm : voice 0.165 : reconstruction 2.496 
+2018-05-23 20:37:01,939 : Best model saved.
+2018-05-23 20:42:06,528 : Step 780 : rmse 0.936 mm : voice 0.163 : reconstruction 2.500 
+2018-05-23 20:48:27,068 : Step 790 : rmse 0.914 mm : voice 0.162 : reconstruction 2.485 
+2018-05-23 20:48:27,282 : Best model saved.
+2018-05-23 20:53:06,903 : Step 800 : rmse 0.930 mm : voice 0.164 : reconstruction 2.519 
+2018-05-23 20:58:54,827 : Step 810 : rmse 0.927 mm : voice 0.165 : reconstruction 2.508 
+2018-05-23 21:04:48,607 : Step 820 : rmse 0.909 mm : voice 0.160 : reconstruction 2.503 
+2018-05-23 21:09:39,161 : Step 830 : rmse 0.916 mm : voice 0.165 : reconstruction 2.508 
+2018-05-23 21:15:12,611 : Step 840 : rmse 0.907 mm : voice 0.165 : reconstruction 2.483 
+2018-05-23 21:15:12,828 : Best model saved.
+2018-05-23 21:20:59,872 : Step 850 : rmse 0.905 mm : voice 0.163 : reconstruction 2.476 
+2018-05-23 21:21:00,089 : Best model saved.
+2018-05-23 21:26:16,065 : Step 860 : rmse 0.917 mm : voice 0.161 : reconstruction 2.481 
+2018-05-23 21:31:15,499 : Step 870 : rmse 0.911 mm : voice 0.158 : reconstruction 2.496 
+2018-05-23 21:36:41,990 : Step 880 : rmse 0.905 mm : voice 0.162 : reconstruction 2.482 
+2018-05-23 21:41:33,638 : Step 890 : rmse 0.901 mm : voice 0.162 : reconstruction 2.469 
+2018-05-23 21:41:33,853 : Best model saved.
+2018-05-23 21:46:36,079 : Step 900 : rmse 0.917 mm : voice 0.160 : reconstruction 2.489 
+2018-05-23 21:51:33,459 : Step 910 : rmse 0.913 mm : voice 0.163 : reconstruction 2.471 
+2018-05-23 21:56:02,068 : Step 920 : rmse 0.896 mm : voice 0.158 : reconstruction 2.469 
+2018-05-23 21:56:02,284 : Best model saved.
+2018-05-23 22:01:18,910 : Step 930 : rmse 0.906 mm : voice 0.155 : reconstruction 2.451 
+2018-05-23 22:01:19,124 : Best model saved.
+2018-05-23 22:05:48,687 : Step 940 : rmse 0.896 mm : voice 0.156 : reconstruction 2.469 
+2018-05-23 23:13:10,050 : Final step : rmse 0.897 mm : voice 0.165 : reconstruction 2.458
+2018-05-23 23:13:18,851 : Best model saved

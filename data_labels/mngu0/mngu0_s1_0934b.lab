@@ -1,0 +1,15 @@
+separator ;
+nfields 1
+name 
+filename ./mngu0_s1_lab_1.1.0/mngu0_s1_0934b.lab
+#
+	 0.12200 26 	#
+	 0.20400 26 	m match
+	 0.31800 26 	a
+	 0.52800 26 	tS
+	 0.59400 26 	r report
+	 0.60000 26 	I
+	 0.71800 26 	p
+	 0.94200 26 	O
+	 1.07000 26 	t
+	 1.62200 26 	#

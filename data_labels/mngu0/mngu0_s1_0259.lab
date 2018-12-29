@@ -1,0 +1,11 @@
+separator ;
+nfields 1
+name 
+filename ./mngu0_s1_lab_1.1.0/mngu0_s1_0259.lab
+#
+	 0.44000 26 	#
+	 0.56000 26 	tS change
+	 0.75000 26 	eI
+	 0.86400 26 	n
+	 0.99000 26 	dZ
+	 1.44200 26 	#

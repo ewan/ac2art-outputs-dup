@@ -1,0 +1,15 @@
+separator ;
+nfields 1
+name 
+filename ./mngu0_s1_lab_1.1.0/mngu0_s1_0022.lab
+#
+	 0.42400 26 	#
+	 0.48000 26 	k call
+	 0.63600 26 	O
+	 0.66400 26 	lw
+	 0.76600 26 	t to
+	 0.84800 26 	u
+	 1.11600 26 	A arms
+	 1.21400 26 	m
+	 1.40400 26 	z
+	 1.80200 26 	#

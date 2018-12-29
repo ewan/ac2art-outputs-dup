@@ -1,0 +1,15 @@
+separator ;
+nfields 1
+name 
+filename ./mngu0_s1_lab_1.1.0/mngu0_s1_0300.lab
+#
+	 0.45200 26 	#
+	 0.51000 26 	w watch
+	 0.57600 26 	Q
+	 0.72400 26 	tS
+	 0.73000 26 	j your
+	 0.76200 26 	U@
+	 0.86000 26 	b back
+	 1.02200 26 	a
+	 1.16600 26 	k
+	 1.62200 26 	#

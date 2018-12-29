@@ -1,0 +1,13 @@
+separator ;
+nfields 1
+name 
+filename ./mngu0_s1_lab_1.1.0/mngu0_s1_0545.lab
+#
+	 0.50000 26 	#
+	 0.54000 26 	g glasgow
+	 0.59000 26 	l
+	 0.72400 26 	a
+	 0.82400 26 	z
+	 0.88200 26 	g
+	 1.02600 26 	@U
+	 1.55200 26 	#

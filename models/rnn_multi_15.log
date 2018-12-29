@@ -1,0 +1,221 @@
+2018-05-23 01:33:36,570 : Step 0 : normed rmse 0.986 : voice 0.720
+2018-05-23 01:33:36,826 : Best model saved.
+2018-05-23 01:37:09,297 : Step 10 : normed rmse 0.832 : voice 0.489
+2018-05-23 01:37:09,419 : Best model saved.
+2018-05-23 01:40:23,266 : Step 20 : normed rmse 0.781 : voice 0.408
+2018-05-23 01:40:23,376 : Best model saved.
+2018-05-23 01:43:09,054 : Step 30 : normed rmse 0.771 : voice 0.356
+2018-05-23 01:43:09,271 : Best model saved.
+2018-05-23 01:46:21,175 : Step 40 : normed rmse 0.738 : voice 0.342
+2018-05-23 01:46:21,290 : Best model saved.
+2018-05-23 01:49:54,084 : Step 50 : normed rmse 0.733 : voice 0.305
+2018-05-23 01:49:54,217 : Best model saved.
+2018-05-23 01:54:14,558 : Step 60 : normed rmse 0.694 : voice 0.293
+2018-05-23 01:54:14,684 : Best model saved.
+2018-05-23 01:58:20,293 : Step 70 : normed rmse 0.685 : voice 0.286
+2018-05-23 01:58:20,426 : Best model saved.
+2018-05-23 02:02:16,421 : Step 80 : normed rmse 0.697 : voice 0.284
+2018-05-23 02:06:27,726 : Step 90 : normed rmse 0.678 : voice 0.289
+2018-05-23 02:06:27,891 : Best model saved.
+2018-05-23 02:10:39,473 : Step 100 : normed rmse 0.672 : voice 0.274
+2018-05-23 02:10:39,589 : Best model saved.
+2018-05-23 02:14:30,971 : Step 110 : normed rmse 0.680 : voice 0.267
+2018-05-23 02:18:25,170 : Step 120 : normed rmse 0.654 : voice 0.263
+2018-05-23 02:18:25,314 : Best model saved.
+2018-05-23 02:22:41,195 : Step 130 : normed rmse 0.639 : voice 0.256
+2018-05-23 02:22:41,320 : Best model saved.
+2018-05-23 02:26:47,367 : Step 140 : normed rmse 0.640 : voice 0.252
+2018-05-23 02:30:06,409 : Step 150 : normed rmse 0.631 : voice 0.262
+2018-05-23 02:30:06,537 : Best model saved.
+2018-05-23 02:34:06,640 : Step 160 : normed rmse 0.648 : voice 0.252
+2018-05-23 02:37:51,339 : Step 170 : normed rmse 0.647 : voice 0.264
+2018-05-23 02:41:20,955 : Step 180 : normed rmse 0.630 : voice 0.258
+2018-05-23 02:41:21,076 : Best model saved.
+2018-05-23 02:45:05,321 : Step 190 : normed rmse 0.632 : voice 0.271
+2018-05-23 02:49:07,292 : Step 200 : normed rmse 0.628 : voice 0.244
+2018-05-23 02:49:07,408 : Best model saved.
+2018-05-23 02:52:32,469 : Step 210 : normed rmse 0.616 : voice 0.241
+2018-05-23 02:52:32,603 : Best model saved.
+2018-05-23 02:56:14,063 : Step 220 : normed rmse 0.612 : voice 0.240
+2018-05-23 02:56:14,191 : Best model saved.
+2018-05-23 02:59:11,196 : Step 230 : normed rmse 0.607 : voice 0.234
+2018-05-23 02:59:11,308 : Best model saved.
+2018-05-23 03:01:59,894 : Step 240 : normed rmse 0.616 : voice 0.234
+2018-05-23 03:04:54,813 : Step 250 : normed rmse 0.605 : voice 0.232
+2018-05-23 03:04:54,923 : Best model saved.
+2018-05-23 03:07:46,601 : Step 260 : normed rmse 0.602 : voice 0.227
+2018-05-23 03:07:46,715 : Best model saved.
+2018-05-23 03:10:49,140 : Step 270 : normed rmse 0.591 : voice 0.224
+2018-05-23 03:10:49,261 : Best model saved.
+2018-05-23 03:13:49,096 : Step 280 : normed rmse 0.601 : voice 0.223
+2018-05-23 03:16:44,996 : Step 290 : normed rmse 0.597 : voice 0.230
+2018-05-23 03:19:36,221 : Step 300 : normed rmse 0.602 : voice 0.233
+2018-05-23 03:22:40,445 : Step 310 : normed rmse 0.583 : voice 0.221
+2018-05-23 03:22:40,564 : Best model saved.
+2018-05-23 03:25:22,614 : Step 320 : normed rmse 0.586 : voice 0.222
+2018-05-23 03:28:29,020 : Step 330 : normed rmse 0.583 : voice 0.215
+2018-05-23 03:28:29,134 : Best model saved.
+2018-05-23 03:31:22,417 : Step 340 : normed rmse 0.577 : voice 0.212
+2018-05-23 03:31:22,536 : Best model saved.
+2018-05-23 03:34:45,751 : Step 350 : normed rmse 0.571 : voice 0.215
+2018-05-23 03:34:45,869 : Best model saved.
+2018-05-23 03:37:26,067 : Step 360 : normed rmse 0.577 : voice 0.215
+2018-05-23 03:39:59,803 : Step 370 : normed rmse 0.582 : voice 0.211
+2018-05-23 03:42:49,588 : Step 380 : normed rmse 0.577 : voice 0.208
+2018-05-23 03:45:49,302 : Step 390 : normed rmse 0.564 : voice 0.206
+2018-05-23 03:45:49,420 : Best model saved.
+2018-05-23 03:48:47,421 : Step 400 : normed rmse 0.574 : voice 0.212
+2018-05-23 03:51:48,348 : Step 410 : normed rmse 0.572 : voice 0.206
+2018-05-23 03:54:12,618 : Step 420 : normed rmse 0.566 : voice 0.212
+2018-05-23 03:56:47,004 : Step 430 : normed rmse 0.573 : voice 0.208
+2018-05-23 03:59:54,011 : Step 440 : normed rmse 0.563 : voice 0.206
+2018-05-23 03:59:54,124 : Best model saved.
+2018-05-23 04:02:57,116 : Step 450 : normed rmse 0.565 : voice 0.202
+2018-05-23 04:06:03,803 : Step 460 : normed rmse 0.554 : voice 0.208
+2018-05-23 04:06:03,920 : Best model saved.
+2018-05-23 04:09:14,837 : Step 470 : normed rmse 0.559 : voice 0.200
+2018-05-23 04:12:28,739 : Step 480 : normed rmse 0.548 : voice 0.199
+2018-05-23 04:12:28,854 : Best model saved.
+2018-05-23 04:15:27,261 : Step 490 : normed rmse 0.560 : voice 0.199
+2018-05-23 04:17:57,149 : Step 500 : normed rmse 0.561 : voice 0.199
+2018-05-23 04:20:36,552 : Step 510 : normed rmse 0.548 : voice 0.199
+2018-05-23 04:23:26,105 : Step 520 : normed rmse 0.544 : voice 0.198
+2018-05-23 04:23:26,221 : Best model saved.
+2018-05-23 04:25:59,722 : Step 530 : normed rmse 0.545 : voice 0.197
+2018-05-23 04:29:19,189 : Step 540 : normed rmse 0.551 : voice 0.196
+2018-05-23 04:32:24,754 : Step 550 : normed rmse 0.538 : voice 0.192
+2018-05-23 04:32:24,865 : Best model saved.
+2018-05-23 04:35:13,255 : Step 560 : normed rmse 0.535 : voice 0.192
+2018-05-23 04:35:13,367 : Best model saved.
+2018-05-23 04:38:07,457 : Step 570 : normed rmse 0.541 : voice 0.190
+2018-05-23 04:40:49,024 : Step 580 : normed rmse 0.534 : voice 0.202
+2018-05-23 04:40:49,135 : Best model saved.
+2018-05-23 04:43:51,223 : Step 590 : normed rmse 0.539 : voice 0.190
+2018-05-23 04:46:53,243 : Step 600 : normed rmse 0.539 : voice 0.188
+2018-05-23 04:50:06,564 : Step 610 : normed rmse 0.546 : voice 0.190
+2018-05-23 04:52:46,071 : Step 620 : normed rmse 0.543 : voice 0.199
+2018-05-23 04:55:46,121 : Step 630 : normed rmse 0.541 : voice 0.203
+2018-05-23 04:58:06,850 : Step 640 : normed rmse 0.531 : voice 0.193
+2018-05-23 04:58:06,965 : Best model saved.
+2018-05-23 05:00:48,689 : Step 650 : normed rmse 0.534 : voice 0.189
+2018-05-23 05:03:38,678 : Step 660 : normed rmse 0.529 : voice 0.185
+2018-05-23 05:03:38,798 : Best model saved.
+2018-05-23 05:06:42,411 : Step 670 : normed rmse 0.527 : voice 0.188
+2018-05-23 05:06:42,530 : Best model saved.
+2018-05-23 05:09:36,675 : Step 680 : normed rmse 0.529 : voice 0.182
+2018-05-23 05:12:15,667 : Step 690 : normed rmse 0.523 : voice 0.184
+2018-05-23 05:12:15,787 : Best model saved.
+2018-05-23 05:15:08,285 : Step 700 : normed rmse 0.530 : voice 0.184
+2018-05-23 05:18:08,623 : Step 710 : normed rmse 0.519 : voice 0.183
+2018-05-23 05:18:08,741 : Best model saved.
+2018-05-23 05:21:05,545 : Step 720 : normed rmse 0.521 : voice 0.184
+2018-05-23 05:23:39,961 : Step 730 : normed rmse 0.525 : voice 0.179
+2018-05-23 05:26:22,239 : Step 740 : normed rmse 0.516 : voice 0.197
+2018-05-23 05:26:22,359 : Best model saved.
+2018-05-23 05:29:02,294 : Step 750 : normed rmse 0.525 : voice 0.192
+2018-05-23 05:32:03,773 : Step 760 : normed rmse 0.514 : voice 0.179
+2018-05-23 05:32:03,890 : Best model saved.
+2018-05-23 05:34:40,944 : Step 770 : normed rmse 0.522 : voice 0.177
+2018-05-23 05:38:00,722 : Step 780 : normed rmse 0.515 : voice 0.182
+2018-05-23 05:40:52,200 : Step 790 : normed rmse 0.519 : voice 0.173
+2018-05-23 05:43:31,947 : Step 800 : normed rmse 0.513 : voice 0.173
+2018-05-23 05:43:32,065 : Best model saved.
+2018-05-23 05:46:11,362 : Step 810 : normed rmse 0.514 : voice 0.172
+2018-05-23 05:48:35,610 : Step 820 : normed rmse 0.511 : voice 0.177
+2018-05-23 05:48:35,727 : Best model saved.
+2018-05-23 05:51:25,419 : Step 830 : normed rmse 0.516 : voice 0.174
+2018-05-23 05:54:16,626 : Step 840 : normed rmse 0.513 : voice 0.183
+2018-05-23 05:57:20,618 : Step 850 : normed rmse 0.513 : voice 0.174
+2018-05-23 06:00:09,725 : Step 860 : normed rmse 0.510 : voice 0.179
+2018-05-23 06:00:09,839 : Best model saved.
+2018-05-23 06:02:55,810 : Step 870 : normed rmse 0.510 : voice 0.179
+2018-05-23 06:05:29,848 : Step 880 : normed rmse 0.517 : voice 0.177
+2018-05-23 06:08:27,189 : Step 890 : normed rmse 0.519 : voice 0.177
+2018-05-23 06:11:24,140 : Step 900 : normed rmse 0.515 : voice 0.176
+2018-05-23 06:14:15,361 : Step 910 : normed rmse 0.519 : voice 0.173
+2018-05-23 06:17:18,328 : Step 920 : normed rmse 0.508 : voice 0.174
+2018-05-23 06:17:18,474 : Best model saved.
+2018-05-23 06:20:12,057 : Step 930 : normed rmse 0.512 : voice 0.176
+2018-05-23 06:23:22,489 : Step 940 : normed rmse 0.506 : voice 0.175
+2018-05-23 06:23:22,606 : Best model saved.
+2018-05-23 06:26:04,222 : Step 950 : normed rmse 0.514 : voice 0.175
+2018-05-23 06:29:13,793 : Step 960 : normed rmse 0.503 : voice 0.183
+2018-05-23 06:29:13,910 : Best model saved.
+2018-05-23 06:32:08,785 : Step 970 : normed rmse 0.503 : voice 0.170
+2018-05-23 06:32:08,897 : Best model saved.
+2018-05-23 06:35:00,586 : Step 980 : normed rmse 0.502 : voice 0.168
+2018-05-23 06:35:00,699 : Best model saved.
+2018-05-23 06:37:49,836 : Step 990 : normed rmse 0.506 : voice 0.168
+2018-05-23 06:40:57,426 : Step 1000 : normed rmse 0.504 : voice 0.166
+2018-05-23 06:43:39,826 : Step 1010 : normed rmse 0.499 : voice 0.174
+2018-05-23 06:43:39,944 : Best model saved.
+2018-05-23 06:46:23,531 : Step 1020 : normed rmse 0.499 : voice 0.176
+2018-05-23 06:46:23,644 : Best model saved.
+2018-05-23 06:48:59,773 : Step 1030 : normed rmse 0.502 : voice 0.167
+2018-05-23 06:51:49,099 : Step 1040 : normed rmse 0.498 : voice 0.166
+2018-05-23 06:51:49,217 : Best model saved.
+2018-05-23 06:54:50,148 : Step 1050 : normed rmse 0.505 : voice 0.164
+2018-05-23 06:57:51,854 : Step 1060 : normed rmse 0.498 : voice 0.167
+2018-05-23 06:57:51,971 : Best model saved.
+2018-05-23 07:00:47,658 : Step 1070 : normed rmse 0.494 : voice 0.165
+2018-05-23 07:00:47,778 : Best model saved.
+2018-05-23 07:03:47,385 : Step 1080 : normed rmse 0.501 : voice 0.165
+2018-05-23 07:06:27,407 : Step 1090 : normed rmse 0.503 : voice 0.164
+2018-05-23 07:09:08,719 : Step 1100 : normed rmse 0.505 : voice 0.168
+2018-05-23 07:11:59,762 : Step 1110 : normed rmse 0.497 : voice 0.163
+2018-05-23 07:14:37,029 : Step 1120 : normed rmse 0.490 : voice 0.163
+2018-05-23 07:14:37,147 : Best model saved.
+2018-05-23 07:17:33,441 : Step 1130 : normed rmse 0.497 : voice 0.166
+2018-05-23 07:20:37,767 : Step 1140 : normed rmse 0.488 : voice 0.162
+2018-05-23 07:20:37,886 : Best model saved.
+2018-05-23 07:23:36,714 : Step 1150 : normed rmse 0.494 : voice 0.164
+2018-05-23 07:26:35,775 : Step 1160 : normed rmse 0.497 : voice 0.164
+2018-05-23 07:29:47,407 : Step 1170 : normed rmse 0.494 : voice 0.166
+2018-05-23 07:32:51,909 : Step 1180 : normed rmse 0.496 : voice 0.163
+2018-05-23 07:35:35,634 : Step 1190 : normed rmse 0.490 : voice 0.167
+2018-05-23 07:38:30,450 : Step 1200 : normed rmse 0.496 : voice 0.168
+2018-05-23 07:41:15,696 : Step 1210 : normed rmse 0.495 : voice 0.167
+2018-05-23 07:43:36,503 : Step 1220 : normed rmse 0.491 : voice 0.167
+2018-05-23 07:46:31,581 : Step 1230 : normed rmse 0.492 : voice 0.165
+2018-05-23 07:49:08,225 : Step 1240 : normed rmse 0.495 : voice 0.176
+2018-05-23 07:52:03,915 : Step 1250 : normed rmse 0.493 : voice 0.169
+2018-05-23 07:54:31,979 : Step 1260 : normed rmse 0.496 : voice 0.163
+2018-05-23 07:57:07,039 : Step 1270 : normed rmse 0.488 : voice 0.166
+2018-05-23 07:59:38,636 : Step 1280 : normed rmse 0.493 : voice 0.162
+2018-05-23 08:02:38,108 : Step 1290 : normed rmse 0.485 : voice 0.162
+2018-05-23 08:02:38,221 : Best model saved.
+2018-05-23 08:05:19,306 : Step 1300 : normed rmse 0.490 : voice 0.161
+2018-05-23 08:08:10,185 : Step 1310 : normed rmse 0.487 : voice 0.161
+2018-05-23 08:10:48,306 : Step 1320 : normed rmse 0.483 : voice 0.160
+2018-05-23 08:10:48,418 : Best model saved.
+2018-05-23 08:13:47,856 : Step 1330 : normed rmse 0.484 : voice 0.162
+2018-05-23 08:16:35,218 : Step 1340 : normed rmse 0.488 : voice 0.162
+2018-05-23 08:19:37,692 : Step 1350 : normed rmse 0.485 : voice 0.163
+2018-05-23 08:22:26,483 : Step 1360 : normed rmse 0.489 : voice 0.161
+2018-05-23 08:25:01,678 : Step 1370 : normed rmse 0.483 : voice 0.163
+2018-05-23 08:28:09,627 : Step 1380 : normed rmse 0.484 : voice 0.165
+2018-05-23 08:30:52,561 : Step 1390 : normed rmse 0.482 : voice 0.161
+2018-05-23 08:30:52,680 : Best model saved.
+2018-05-23 08:33:44,516 : Step 1400 : normed rmse 0.486 : voice 0.165
+2018-05-23 08:36:47,180 : Step 1410 : normed rmse 0.484 : voice 0.161
+2018-05-23 08:39:36,766 : Step 1420 : normed rmse 0.489 : voice 0.161
+2018-05-23 08:42:38,322 : Step 1430 : normed rmse 0.482 : voice 0.166
+2018-05-23 08:42:38,440 : Best model saved.
+2018-05-23 08:45:25,990 : Step 1440 : normed rmse 0.486 : voice 0.165
+2018-05-23 08:48:15,854 : Step 1450 : normed rmse 0.479 : voice 0.162
+2018-05-23 08:48:15,971 : Best model saved.
+2018-05-23 08:51:24,400 : Step 1460 : normed rmse 0.481 : voice 0.160
+2018-05-23 08:54:07,759 : Step 1470 : normed rmse 0.485 : voice 0.159
+2018-05-23 08:57:09,759 : Step 1480 : normed rmse 0.486 : voice 0.161
+2018-05-23 08:59:38,593 : Step 1490 : normed rmse 0.478 : voice 0.159
+2018-05-23 08:59:38,707 : Best model saved.
+2018-05-23 09:02:49,589 : Step 1500 : normed rmse 0.481 : voice 0.156
+2018-05-23 09:05:32,663 : Step 1510 : normed rmse 0.483 : voice 0.157
+2018-05-23 09:08:01,733 : Step 1520 : normed rmse 0.479 : voice 0.158
+2018-05-23 09:10:51,217 : Step 1530 : normed rmse 0.482 : voice 0.161
+2018-05-23 09:14:03,059 : Step 1540 : normed rmse 0.480 : voice 0.166
+2018-05-23 09:16:38,967 : Step 1550 : normed rmse 0.480 : voice 0.162
+2018-05-23 09:19:41,126 : Step 1560 : normed rmse 0.479 : voice 0.160
+2018-05-23 09:22:56,070 : Step 1570 : normed rmse 0.479 : voice 0.157
+2018-05-23 09:26:01,011 : Step 1580 : normed rmse 0.480 : voice 0.171
+2018-05-23 09:29:16,026 : Step 1590 : normed rmse 0.480 : voice 0.159
