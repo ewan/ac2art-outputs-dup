@@ -1,0 +1,84 @@
+---
+title: "ABX scores"
+output:
+  html_document:
+    df_print: paged
+---
+
+```{r, message=FALSE}
+library(magrittr)
+mngu0_mfcc <- readr::read_csv("abx_scores/mngu0_mfcc_test_abx.csv")
+mngu0_art <- readr::read_csv("abx_scores/mngu0_ema_15_test_abx.csv")
+mngu0_mlp <- readr::read_csv("abx_scores/mngu0_mlp_mngu15_15_test_abx.csv")
+mngu0_rnn <- readr::read_csv("abx_scores/mngu0_rnn_mngu15_15_test_abx.csv")
+mocha_mfcc_allspk <- readr::read_csv("abx_scores/mocha_mfcc_test_abx.csv")
+mocha_art_allspk <- readr::read_csv("abx_scores/mocha_ema_15_test_abx.csv")
+mocha_mfcc_withinspk <- readr::read_csv("abx_scores/mocha_mfcc_test_byspk_abx.csv")
+mocha_art_withinspk <- readr::read_csv("abx_scores/mocha_ema_15_test_byspk_abx.csv")
+
+mocha_rnn_multi_allspk <- readr::read_csv("abx_scores/mocha_rnn_multi15_15_test_abx.csv")
+mocha_rnn_multi_withinspk <- readr::read_csv("abx_scores/mocha_rnn_multi15_15_test_byspk_abx.csv")
+```
+
+Within-corpus, within-speaker (MNGU0: one speaker); added additional dimensions (15: hand-coded voicing; x/y for velum, reconstructed)
+
+
+
+Overall mean ABX  for MFCC: `r mean(mngu0_mfcc$score)`
+
+Overall mean ABX  for articulatory: `r mean(mngu0_art$score)`
+
+
+
+Overall mean ABX  for MLP: `r mean(mngu0_mlp$score)`
+
+Overall mean ABX  for RNN: `r mean(mngu0_rnn$score)`
+
+
+Within-corpus, speaker-indifferent (MOCHA: two speakers) (added additional dimensions??)
+
+
+
+Overall mean ABX  for MFCC: `r mean(mocha_mfcc_allspk$score)`
+
+Overall mean ABX  for articulatory: `r mean(mocha_art_allspk$score)`
+
+
+Within-corpus, within-speaker (MOCHA: two speakers) (added additional dimensions??)
+
+
+
+Overall mean ABX  for MFCC: `r mean(mocha_mfcc_withinspk$score)`
+
+Overall mean ABX  for articulatory: `r mean(mocha_art_withinspk$score)`
+
+
+Multi-corpus training (??), predicting MOCHA
+
+
+
+Overall mean ABX  for RNN, all speakers: `r mean(mocha_rnn_multi_allspk$score)`
+
+Overall mean ABX  for RNN, within speaker: `r mean(mocha_rnn_multi_withinspk$score)`
+
+
+```{r}
+art_vs_mfcc <- mocha_mfcc_allspk %>% dplyr::rename(mfcc_score=score) %>%
+  dplyr::inner_join(mocha_art_allspk) %>%
+  dplyr::rename(art_score=score) %>%
+  dplyr::mutate(diff=(art_score-mfcc_score)) %>%
+  dplyr::group_by(phone_1, phone_2) %>%
+  dplyr::summarize(diff=mean(diff), art_score=mean(art_score),
+                   mfcc_score=mean(mfcc_score)) %>%
+  dplyr::ungroup()
+
+ggplot2::ggplot(dplyr::filter(art_vs_mfcc, diff >= 0.6),
+                ggplot2::aes(y=art_score, x=mfcc_score,
+                             label=paste(phone_1, phone_2, sep=":"))) +
+  ggplot2::geom_text() +
+  ggplot2::geom_smooth(method="lm")
+
+ggplot2::ggplot(art_vs_mfcc, ggplot2::aes(x=diff)) +
+  ggplot2::geom_histogram()
+
+```
